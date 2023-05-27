@@ -1,0 +1,169 @@
+:root {
+    --color1: #424C47;
+    --color2: white;
+    --color3: #7ac6a1; 
+}
+
+.ff-ss {
+    font-family: sans-serif;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.bgc-1 {
+    background-color: var(--color1);
+}
+
+.c-2 {
+    color: var(--color2);
+}
+
+.ta-cent {
+    text-align: center;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.bgi {
+    background-image: url(https://www.wallpaperflare.com/static/479/408/881/landscape-trees-forest-wallpaper.jpg);
+}
+
+.bgi-2 {
+    background-image: url(https://img1.oastatic.com/img2/26386012/max/explore-romantik-zwischen-schwarzwald-und-rhein.jpg);
+    background-position-x: -200px;
+    background-position-y: -100px;
+}
+
+.bgi-3 {
+    background-image: url(https://traveltimes.ru/wp-content/uploads/2021/07/les3.jpg);
+    background-position-x: -200px;
+    background-position-y: -100px;
+}
+
+.w-600 {
+    width:600px;
+}
+
+.df {
+    display: flex;
+}
+
+.fd-col {
+    flex-direction: column;
+}
+
+.al-it-cent {
+    align-items: center;
+}
+
+.fs-40 {
+    font-size: 40px;
+}
+
+.p-0-150 {
+    padding: 0 150px;
+}
+
+.g-20 {
+    gap: 5%;
+}
+
+.w-20-per {
+    width: calc(20% - 15);
+}
+
+.bgc-3 {
+    background-color: var(--color3);
+}
+
+.br-20 {
+    border-radius: 20px;
+}
+
+.bn {
+    border: none;
+}
+
+.on {
+    outline: none;
+}
+
+.p-10-15 {
+    padding: 10px 15px;
+}
+
+.dg {
+    display: grid;
+}
+
+.gtr {
+    grid-template-rows: 300px 300px;
+}
+
+.gtc {
+    grid-template-columns: 40% 20% 40%;
+}
+
+.gc-1-3 {
+    grid-column: 1 / 3;
+}
+
+.gc-2-4 {
+    grid-column: 2 / 4;
+}
+
+.cg-20 {
+    column-gap: 20px;
+}
+
+.rg-20 {
+    row-gap: 20px;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-100-100 {
+    padding: 100px 100px;
+}
+
+.fs-25 {
+    font-size: 25px;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.ji-c {
+    justify-items: center;
+}
+
+.bgc-2 {
+    background-color: var(--color2);
+}
+
+.bor-c-3 {
+    border-color: var(--color3);
+}
+
+.bor-w-2 {
+    border-width: 2px;
+}
+
+.bor-s-s {
+    border-style: solid;
+}
+
+.c-1 {
+    color: var(--color1);
+}
